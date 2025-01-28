@@ -1,3 +1,10 @@
+-=(MCR3scroll_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+Dev notes: The "Turbo Tag" game has sprite issues: https://github.com/MiSTer-devel/Arcade-MCR3Scroll_MiSTer/issues/10
+
+___
 # Midway MCR3scroll port for MiSTer
 
 [Original readme](README_orig.txt) (mostly irrelevant to MiSTer)
